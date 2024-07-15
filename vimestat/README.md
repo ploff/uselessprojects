@@ -1,3 +1,5 @@
-# vimesession
+# vimestat
 
-check player statictics on vimeworld, works via api.vimeworld.com
+check player statictics on vimeworld.
+
+works via api.vimeworld.com
